@@ -1,0 +1,33 @@
+
+html{
+    background-color: rgb(20, 27, 62);
+    text-align: center;
+    
+}
+
+.welcome, .logintext, .remember {
+    color: white;
+    text-align: center;
+    
+}
+textarea{
+    color: gray;
+   height:25px;
+}
+.welcome{
+    font-size: 32px;
+}
+button {
+    color: white;
+    background-color: rgb(11, 15, 35);
+}
+.login {
+    font-size: 20px;
+}
+/*Estilo de imagen a la izquierda del nombre de usuario
+.loginimg {
+    vertical-align: middle;
+    height: 20px;
+    width: auto;
+}
+*/
