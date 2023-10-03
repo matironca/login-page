@@ -2,7 +2,7 @@
 html{
     background-color: rgb(20, 27, 62);
     text-align: center;
-    
+    box-sizing: border-box;
 }
 
 .welcome, .logintext, .remember {
@@ -25,9 +25,8 @@ button {
     font-size: 20px;
 }
 #loginscreen{
-    width: fit-content;
     margin: auto;
-    padding: 120px;
+    margin-top: 120px;
 
 }
 
